@@ -1,0 +1,6 @@
+framework module Pods_rush01 {
+  umbrella header "Pods-rush01-umbrella.h"
+
+  export *
+  module * { export * }
+}
